@@ -29,6 +29,7 @@ Bem-vindo ao repositório do **Pong**, uma recriação do clássico jogo de arca
 
 O **Pong** é um jogo de ping-pong digital para dois jogadores. Os jogadores controlam suas raquetes para rebater a bola e marcar pontos quando o adversário não consegue defender. Este projeto visa não apenas recriar o jogo, mas também explorar conceitos de algoritmos eficientes e jogabilidade fluida.
 
+
 ---
 
 ## 🎥 Demonstração
