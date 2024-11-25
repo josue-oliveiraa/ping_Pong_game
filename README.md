@@ -107,6 +107,12 @@ estável.
 ## 💭 Desenvolvedores 
 Agradecemos aos desenvolvedores por sua dedicação e trabalho árduo na criação deste projeto. Seu esforço é fundamental para tornar essa ferramenta uma realidade! 😃
 
+## Referências
+
+https://pt.wikipedia.org/wiki/Pong
+https://medium.com/pr%C3%A1ticas-em-programa%C3%A7%C3%A3o-para-jogos/modulariza%C3%A7%C3%A3o-de-c%C3%B3digo-desenvolvimento-do-jogo-pong-32084ffe5487
+https://www.bbc.com/portuguese/geral-60039831
+
 <table>
   <tr>
      <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/125497324?v=4" width="100px;" alt=""/><br /><sub><b>Natan Martins</b></sub></a><br /><a href="https://github.com/NatancMartins" title="Rocketseat">Rgm: 29677491</a></td>
