@@ -104,14 +104,16 @@ estável.
 ## 💻 Tecnologias Utilizadas no Projeto
 - <img src="https://skillicons.dev/icons?i=python" width="30">   Python
 
-## 💭 Desenvolvedores 
-Agradecemos aos desenvolvedores por sua dedicação e trabalho árduo na criação deste projeto. Seu esforço é fundamental para tornar essa ferramenta uma realidade! 😃
-
 ## Referências
 
 https://pt.wikipedia.org/wiki/Pong
 https://medium.com/pr%C3%A1ticas-em-programa%C3%A7%C3%A3o-para-jogos/modulariza%C3%A7%C3%A3o-de-c%C3%B3digo-desenvolvimento-do-jogo-pong-32084ffe5487
 https://www.bbc.com/portuguese/geral-60039831
+
+
+## 💭 Desenvolvedores 
+Agradecemos aos desenvolvedores por sua dedicação e trabalho árduo na criação deste projeto. Seu esforço é fundamental para tornar essa ferramenta uma realidade! 😃
+
 
 <table>
   <tr>
